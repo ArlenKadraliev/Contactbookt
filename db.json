@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Arlen",
+      "phone": "0550196266",
+      "image": "https://st-1.akipress.org/st_runews/.storage/limon3/images/january2019/d52c6c130a15d31edcb12ddf77362afa.jpg",
+      "id": 2
+    },
+    {
+      "name": "№Арлен",
+      "phone": "196299",
+      "image": "https://st-1.akipress.org/st_runews/.storage/limon3/images/january2019/d52c6c130a15d31edcb12ddf77362afa.jpg",
+      "id": 4
+    },
+    {
+      "name": "ждл",
+      "phone": "0909",
+      "image": "",
+      "id": 5
+    }
+  ]
+}
